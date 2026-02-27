@@ -1,0 +1,27 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-section {
+    padding: 100px 0;
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: 600;
+}
+
+.card {
+    border: none;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+#contact {
+    background-color: #212529;
+    color: white;
+}
